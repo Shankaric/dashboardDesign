@@ -1,5 +1,5 @@
 ## DashboardDesign
-#### Created a sample dashboard design contains chart, progress.
+#### Created a sample dashboard design contains chart, progress indicator.
 
 ## Built with
 
